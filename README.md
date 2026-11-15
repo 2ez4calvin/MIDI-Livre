@@ -42,11 +42,11 @@ Controladora MIDI USB com 8 botões e 4 potenciômetros, construída com Arduino
 │       ├── Tampa Deslizante.stl
 │       └── Suporte Arduino.stl
 │   └──Imagens
-└── README.md
 │       ├── Caixa Interior.png
 │       ├── Caixa.png
 │       ├── Suporte Arduino.png
 │       ├── Tampa Deslizante
+└── README.md
 ```
 
 ## Lista de materiais
