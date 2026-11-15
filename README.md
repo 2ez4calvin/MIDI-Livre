@@ -16,7 +16,7 @@ Controladora MIDI USB com 8 botões e 4 potenciômetros, construída com Arduino
 - [Personalização](#personalização)
 - [Limitações](#limitações)
 - [Solução de problemas](#solução-de-problemas)
-- [Licença](#licença)
+- [Autoria](#Autoria)
 
 ## Funcionalidades
 
