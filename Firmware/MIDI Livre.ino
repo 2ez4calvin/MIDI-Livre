@@ -30,7 +30,6 @@ const uint8_t botaoPins[NUM_BOTOES] = {2, 3, 4, 5, 6, 7, 8, 9};
 
 const uint8_t intervalos[NUM_NOTAS] = {0, 2, 4, 5, 7, 9, 11}; // C D E F G A B
 
-
 const int8_t CICLO_OITAVAS[] = {2, 3, 4, 5, 6};
 const uint8_t NUM_OITAVAS = sizeof(CICLO_OITAVAS) / sizeof(CICLO_OITAVAS[0]);
 uint8_t indiceOitava = 2;
@@ -116,9 +115,7 @@ void lerPotenciometros() {
   }
 }
 
-
 // ---------- SETUP ----------
-
 void setup() {
   for (uint8_t i = 0; i < NUM_BOTOES; i++) {
     pinMode(botaoPins[i], INPUT_PULLUP); 
