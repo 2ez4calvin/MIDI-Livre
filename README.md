@@ -57,8 +57,12 @@ Controladora MIDI USB com 8 botões e 4 potenciômetros, construída com Arduino
 | 8 | Chave botão R13-507 | Rosca M16 × 1,0, acionamento momentâneo |
 | 4 | Potenciômetro linear 10 kΩ | Eixo para *knob* |
 | 1 | Cabo micro USB (30 cm) | Dados + alimentação |
+| 1 | Cabo *flat* 20 vias 26 AWG (1 m) | Ligação entre placa e interface |
 | 4 | *Knobs* para potenciômetro | Ajuste ao eixo do seu modelo |
 | ~ | Filamento PLA | Cerca de três peças, 3 h 10 min de impressão |
+
+Custo estimado dos componentes eletrônicos: **R$ 71,73** (valores de referência, variam conforme a loja).
+
 
 ## 1. Montagem do circuito
 
