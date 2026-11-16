@@ -2,7 +2,7 @@
 
 Controladora MIDI USB com 8 botões e 4 potenciômetros, construída com Arduino Pro Micro (ATmega32U4) e *enclosure* impresso em 3D. Ao ser conectada ao computador, é reconhecida como dispositivo MIDI genérico (*plug-and-play*), sem *drivers* nem fonte externa.
 
-> Projeto desenvolvido no IFG – Câmpus Formosa. Veja o texto completo da modelagem e construção em `docs/`.
+> Projeto desenvolvido no IFG – Câmpus Formosa.
 
 ## Sumário
 
