@@ -32,7 +32,7 @@ Controladora MIDI USB com 8 botões e 4 potenciômetros, construída com Arduino
 ```
 .
 ├── Firmware/
-│   └── MIDI Livre.ino
+│   └── MIDI_Livre.ino
 ├── Esquema Fritzing/
 │   ├── MIDI Livre.fzz
 │   └── MIDI Livre.jpg
